@@ -1,0 +1,252 @@
+   1: ?
+   2: ?
+   3: ?
+   4: ?
+   5: ?
+   6: Grana vallis Mountain: Flower top enemy shoot spinning flower pt.1
+   7: Grana vallis Mountain: Flower top enemy shoot spinning flower pt.2
+   8: Brilliante special pt.1
+   9: ?
+   10: Use livarte special pt.2
+   11: Use Livarte special pt.1
+   12: Kishgal: wall boss ground smash pt.2
+   13: Stones exploding (e.g. kishgal wall boss attack)
+   14: Brilliante charged attack (grounded), Kishgal sawblade enemies
+   15: ?
+   16: Livarte fully charged
+   17: ?
+   18: Brilliante plunging attack
+   19: ?
+   20: ?
+   21: Brilliante special pt.3
+   22: ?
+   23: ?
+   24: ?
+   25: Erricil fully charged
+   26: Brilliante fully charged
+   27: ?
+   28: Erricil thrust pt.2 (grounded)
+   29: Erricil thrust pt.1 (grounded)
+   30: ?
+   31: ?
+   32: ?
+   33: ?
+   34: ?
+   35: ?
+   36: ?
+   37: ?
+   38: ?
+   39: ?
+   40: Lanaluna: poison spit?
+   41: ?
+   42: ?
+   43: ?
+   44: ?
+   45: Livarte swing pt.1 (grounded)
+   46: ?
+   47: ?
+   48: ?
+   49: ?
+   50: Ud-Meiyue: undef vfx
+   51: Ud-Meiyue: undef vfx
+   52: Ud-Meiyue: undef vfx
+   53: Ud-Meiyue: undef vfx
+   54: Ud-Meiyue: undef vfx
+   55: Ud-Meiyue: undef vfx
+   56: ?
+   57: Orjugan: undef vfx
+   58: ?
+   59: ?
+   60: ?
+   61: Orjugan: undef vfx
+   62: Orjugan: undef vfx
+   63: ?
+   64: Ud-Meiyue and Orjugan: undef sfx
+   65: ?
+   66: ?
+   67: undef water or blood vfx
+   68: ?
+   69: ?
+   70: ?
+   71: Lanaluna: undef vfx
+   72: ?
+   73: Erricil use special pt.1
+   74: Erricil use special pt.2
+   75: ?
+   76: ?
+   77: ?
+   78: ?
+   79: ?
+   80: ?
+   81: ?
+   82: ?
+   83: ?
+   84: Brilliante plunging attack PT.2 (landing)
+   85: ?
+   86: ?
+   87: ?
+   88: ?
+   89: ?
+   90: ?
+   91: ?
+   92: ?
+   93: ?
+   94: ?
+   95: ?
+   96: ?
+   97: Flash of light + adol stagger pt.1 (e.g. Mythos bugs, ruins of lost time claw bots)
+   98: Flash of light + adol stagger pt.2
+   99: Adol level up
+   100: Adol: use consumable pt.1
+   101: ?
+   102: ?
+   103: ?
+   104: ?
+   105: ?
+   106: ?
+   107: ?
+   108: ?
+   109: ?
+   110: Kishgal: Wyvern corridor pulsing lamps
+   111: ?
+   112: Kishgal: Blue torch flames
+   113: ?
+   114: ?
+   115: ?
+   116: ?
+   117: ?
+   118: ?
+   119: ?
+   120: ?
+   121: ?
+   122: ?
+   123: ?
+   124: ?
+   125: ?
+   126: Brilliante special pt.2
+   127: ?
+   128: ?
+   129: ?
+   130: Livarte: Spin attack after multiple grounded attacks
+   131: ?
+   132: ?
+   133: ?
+   134: ?
+   135: ?
+   136: ?
+   137: ?
+   138: Adol: confusion
+   139: Adol: poison
+   140: Adol: slow
+   141: Cycle between swords (Brilliante to Livarte)
+   142: Cycle between swords (Erricil to Brilliante)
+   143: Cycle between swords (Livarte to Erricil)
+   144: Adol: walk in water pt.2
+   145: ?
+   146: ?
+   147: Redahn Woods: Flower spit attack 
+   148: Redahn Woods: Black bird steal your money attack
+   149: ?
+   150: Redahn Woods: Flower spit pt.1
+   151: Adol: projectile stagger?
+   152: ?
+   153: ?
+   154: Kill enemy
+   155: ?
+   156: Adol: walk into water pt.1
+   157: ?
+   158: ?
+   159: ?
+   160: ?
+   161: Adol and enemies: moving in water
+   162: Redahn Woods: Charging spear bug
+   163: ?
+   164: Pickup Emel
+   165: ?
+   166: Limewater Cave: Water ripple effect
+   167: Village woods: Squirrel jump attack pt.1
+   168: ?
+   169: Village woods: Squirrel jump attack pt.2
+   170: ?
+   171: ?
+   172: ?
+   173: ?
+   174: Kishgal: Flamethrower bot main attack
+   175: RoLT: Laser single shot fire
+   175: ?
+   176: ?
+   177: ?
+   178: Grannalis Mountain: hornet enemy charge pt.1
+   179: ?
+   180: ?
+   181: ?
+   182: ?
+   183: ?
+   184: ?
+   185: ?
+   186: ?
+   187: ?
+   188: ?
+   189: ?
+   190: ?
+   191: Entering heal ring around save station
+   192: ?
+   193: ?
+   194: Area transition: West Port Rimorge Coast to Port Rimorge
+   195: ?
+   196: ?
+   197: ?
+   198: Area transition: Into area with save pillar
+   199: ?
+   200: Area transition: Romun ship hold
+   201: ?
+   202: ?
+   203: ?
+   204: ?
+   205: ?
+   206: ?
+   207: ?
+   208: UdMeiyue: undef vfx
+   209: ?
+   210: ?
+   211: ?
+   212: ?
+   213: ?
+   214: ?
+   215: ?
+   216: ?
+   217: ?
+   218: ?
+   219: ?
+   220: ?
+   221: ?
+   222: ?
+   223: ?
+   224: ?
+   225: ?
+   226: ?
+   227: ?
+   228: ?
+   229: ?
+   230: ?
+   231: ?
+   232: ?
+   233: ?
+   234: ?
+   235: ?
+   236: ?
+   237: ?
+   238: ?
+   239: ?
+   240: ?
+   241: Area transition: Into Mythos path waterfalls room
+   242: Kishgal: Boss smash attack pt.1 
+   243: ?
+   244: ?
+   245: ?
+   246: ?
+   247: ?
+   248: ?
+   249: ?
+   250: ?
+   251: ?

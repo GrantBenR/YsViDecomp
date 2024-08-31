@@ -1,0 +1,291 @@
+   0: Select item in menu (save file, tab, etc.)
+   1: Exit menu
+   2:(Invalid/disabled button sfx) Sfx when attempting to upgrade a max level sword
+   3: Hover over option button (e.g. save file, store item, y/n option, etc.)
+   4: Cash sfx when an item is bought or sold
+   5: Level Up
+   6: Second SFX for upgrading sword (Livarte)
+   7: First SFX for upgrading sword (Livarte)
+   8: Receive item jingle
+   9: ?
+   10: Sword full charge sfx
+   11: Switch swords sfx
+   12: Sfx for text as it is procedurally displayed e.g. Dialog and other gradually displayed text
+   13: Undef Sword upgrade animation Sfx
+   14: Undef Sword upgrade animation Sfx
+   15: ?
+   16: ?
+   17: ?
+   18: Sfx played when health is restored at save point
+   19: ?
+   20: Adol: Walk wood pt.1
+   21: Adol: Walk wood pt.2
+   22: Adol: Walk wood pt.3
+   23: Adol: Walk wood pt.4
+   24: ?
+   25: ?
+   26: ?
+   27: ?
+   28: Adol: Walk Grana Vallis pt.1
+   29: Adol: Walk Grana Vallis pt.2
+   30: Adol: Walk Grana Vallis pt.3
+   31: Adol: Walk Grana Vallis pt.4
+   32: Adol: Walk grass pt.1
+   33: Adol: Walk grass pt.2
+   34: Adol: Walk grass pt.3 
+   35: Adol: Walk grass pt.4
+   36: ?
+   37: ?
+   38: ?
+   39: ?
+   40: ?
+   41: ?
+   42: ?
+   43: ?
+   44: Adol: Walk Kishgal pt.1
+   45: Adol: Walk Kishgal pt.2
+   46: Adol: Walk Kishgal pt.3
+   47: Adol: Walk Kishgal pt.4
+   48: Limewater Caves: Water sfx
+   49: ?
+   50: ?
+   51: ?
+   52: Adol: jump landing / Adol: Walk Limestone Rocks pt.1
+   53: Adol: Walk Limestone Rocks pt.2
+   54: Adol: Walk Limestone Rocks pt.3
+   55: Adol: Walk Limestone Rocks pt.4
+   56: Adol: Walk Limestone Waters pt.1
+   57: Adol: Walk Limestone Waters pt.2
+   58: Adol: Walk Limestone Waters pt.3
+   59: Adol: Walk Limestone Waters pt.4
+   60: ?
+   61: ?
+   62: Adol: death pt.1
+   63: Adol: death pt.2
+   64: Geis sword swings after LanaLuna fight
+   65: ?
+   66: Adol stagger with flash
+   67: Livarte swing (grounded) pt.1
+   68: ?
+   69: ?
+   70: ?
+   71: ?
+   72: ?
+   73: ?
+   74: ?
+   75: ?
+   76: ?
+   77: ?
+   78: ?
+   79: Open Chest ambience
+   80: Critical hit
+   81: ?
+   82: Adol: Poison tick
+   83: Adol: Slow status effect
+   84: Adol: Confusion status effect
+   85: Adol: Poison status effect
+   86: Ernst: heat seaking magic lasers attack
+   87: ?
+   88: Heal sfx (if not at full health?)
+   89: Cure Status
+   90: Use stat up seed
+   91: ?
+   92: Open Old Alma Wing Menu
+   93: ?
+   94: ?
+   95: ?
+   96: ?
+   97: ?
+   98: ?
+   99: ?
+   100: ?
+   101: Ud Meiyu, Demigalba, and Galba Roa: Death Scream (Top of fall)
+   102: Ud Meiyu and Galba Roa: Death Pt.2 (Explosion)
+   103: Galba Roa: Death (Crumbling to dust)
+   104: Demigalba, Orjugan, and Galba Roa: Horizontal arm sweep
+   105: Demigalba: Fire breath
+   106: Ud Meiyu and Galba Roa: Jump Attack (push off)
+   107: Ud Meiyu and Galba Roa: Jump Attack (landing)
+   108: Zonplas: Wing Flapping 
+   109: Zonplas: Fist Smash Attack
+   110: ?
+   111: ?
+   112: ?
+   113: Zonplas & Flower Boss: Smack egg sound effect
+   114: Ud Meiyu: undef sfx
+   115: Orjugan: undef sprite sfx
+   116: Orjugan: undef sprite sfx
+   117: ?
+   118: Orjugan: undef sprite sfx
+   119: Orjugan: undef sprite sfx
+   120: ?
+   121: Galba Roa: Stomp Attack
+   122: Galba Roa: Fire Breath Attack & Wyvern flight intro
+   123: Galba Roa: Cross Arms and Release Snake
+   124: Galba Roa: Tail Sweep Attack
+   125: Galba Roa: Fall at beginning of 2nd phase
+   126: ?
+   127: Galba Roa: Tail Smash Attack
+   128: Ernst: Horizontal Swipe (1st)
+   129: Ernst: Horizontal Swipe (2nd)
+   130: Ernst: Diving Sword Attack
+   131: ?
+   132: ?
+   133: ?
+   134: ?
+   135: ?
+   136: Napishtim: Intro
+   137: Napishtim: Undef sfx
+   138: Napishtim: Gem burst
+   139: Napishtim: Phase 2 transition
+   140: Napishtim: Phase 2 spin up
+   141: ?
+   142: Napishtim: undef sfx
+   143: ?
+   144: ?
+   145: ?
+   146: Napishtim: undef phase 2 power up sound
+   147: Napishtim: Phase 2 death sound
+   148: Napishtim: Reverse spin direction
+   149: Lanaluna: grab tongue
+   150: ?
+   151: Lanaluna: undef sfx
+   152: Lanaluna: pull out tongue
+   153: ?
+   154: Lanaluna: poison spit?
+   155: ?
+   156: Lanaluna: roll
+   157: ?
+   158: ?
+   159: ?
+   160: Limestone Cave: Slime jump landing
+   161: ?
+   162: ?
+   163: Canaan plains: dog enemy walk pt.2
+   164: ?
+   165: ?
+   166: Orjugan: undef sprite audio
+   167: ?
+   168: ?
+   169: ?
+   170: ?
+   171: ?
+   172: ?
+   174: ?
+   175: ?
+   176: ?
+   177: ?
+   178: ?
+   179: ?
+   180: ?
+   181: Ernst: Raising sword to sky to summon magic
+   182: RoLT: Stationary Laser enemy: laser fire pt.2
+   183: ?
+   184: Canaan plains: dog enemy jump attack pt.1
+   185: Canaan plains: dog enemy walk pt.1
+   186: ?
+   187: ?
+   188: ?
+   189: ?
+   190: ?
+   191: ?
+   192: ?
+   193: Canaan Plains: Hopping enemy landing
+   194: Canaan Plains: Hopping enemy ground lazer attack
+   195: ?
+   196: ?
+   197: ?
+   198: ?
+   199: ?
+   200: ?
+   201: ?
+   202: ?
+   203: ?
+   204: ?
+   205: ?
+   206: ?
+   207: ?
+   208: ?
+   209: ?
+   210: ?
+   211: ?
+   212: ?
+   213: ?
+   214: ?
+   215: ?
+   216: ?
+   217: ?
+   218: ?
+   219: Ernst: Raise sword to sky to summon magic pt.2
+   220: ?
+   221: ?
+   222: Geis: Halberd swing pt.1
+   223: ?
+   224: ?
+   225: ?
+   226: ?
+   227: ?
+   228: ?
+   229: ?
+   230: ?
+   231: ?
+   232: ?
+   233: ?
+   234: ?
+   235: ?
+   236: ?
+   237: ?
+   238: ?
+   239: ?
+   240: Limewater caves boss arena sfx
+   241: Port Rimorge Docks ambience
+   242: ?
+   243: Limewater Caves area sfx, Geis Arena
+   244: Wyvern flight
+   245: Coastal Road ambience
+   246: Area btwn Port Rimorge and Canaan Plains ambience
+   248: Livarte sword swing (grounded) pt.2
+   252: Livarte sword swing (grounded) pt.3
+   260: Olha: Wyvern Corridor Flute Pt.1
+   261: ?
+   262: Birds chirping (2nd scene after opening movie)
+   263: Orjugan intro, Ark elevator, Isha's prophecy in game intro
+   264: ?
+   265: Demigalba: Death fall landing & Orjugan ambient sfx
+   266: ?
+   267: ?
+   268: ?
+   269: ?
+   270: ?
+   271: ?
+   272: ?
+   273: ?
+   274: ?
+   275: ?
+   276: ?
+   277: ?
+   278: ?
+   279: ?
+   280: ?
+   281: Open Romun Fleet Door Pt.2
+   282: Open Romun Fleet Door Pt.1
+   283: Open Gates to Lanaluna Arena
+   284: Lanaluna: Ambient arena noise, triggered on boss' entrance
+   285: ?
+   286: Bodies thrown into the wall by Geis post Lanaluna fight
+   287: ?
+   288: ?
+   289: ?
+   290: Olha: Wyvern Corridor Flute Pt.3
+   291: Olha: Wyvern Corridor Flute Pt.2
+   292: ?
+   293: ?
+   294: ?
+   295: ?
+   296: ?
+   297: Galba Roa Boss Room: Ascending platform with Galba Roa (low rumble)
+   298: Galba Roa Boss Room: ascending/descending holgraphic elevator
+   299: ?
+   300: Crickets (After opening movie)
+   301: ?
+   302: Napishtim: Ambient arena noise */
