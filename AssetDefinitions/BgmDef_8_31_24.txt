@@ -1,0 +1,32 @@
+   Ys6_01: Main menu
+   Ys6_02: Release of the Far West Ocean
+   _Ys6_02: Release of the Far West Ocean (Alternate)
+   _Ys6_02_Old: Release of the Far West Ocean (Old)
+   Ys6_03: The Moonset Shore
+   Ys6_04: Rehdan Village
+   Ys6_05: Shop Theme
+   Ys6_06: Quatera Woods
+   Ys6_07: Boss Fight
+   Ys6_08: Mythos Path
+   Ys6_09: Port Rimorge (Peaceful)
+   Ys6_10: Canaan Plains
+   Ys6_11: Grana-Vallis Mountain
+   Ys6_12: Ruins of Lost Time
+   Ys6_13: Zemeth Sanctum
+   Ys6_14: Limewater Cave
+   Ys6_15: The Successor of Almarion
+   Ys6_16: Port Rimorge (Occupied)
+   Ys6_17: Romun Fleet
+   Ys6_18: Defend! and Escape!
+   Ys6_19: Kishgal
+   Ys6_20: Galba Roa Boss Fight
+   Ys6_21: Ernst Boss Fight
+   Ys6_22: Ark
+   Ys6_23: Black Ark Unveiled
+   Ys6_24: The Depth of Napishtim (Ark Fight)
+   Ys6_25: Credits
+   Ys6_26: Destruction of the Ark (Demo ___)
+   Ys6_27: Release of the Black Ark (Demo ___)
+   Ys6_28: Release of the Black Ark pt.2 (Demo ___)
+   Ys6_29: Destruction of the Ark (Demo ___)
+   Ys6_30: Defeat
