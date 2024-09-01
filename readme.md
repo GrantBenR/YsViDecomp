@@ -20,4 +20,6 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Reverse Engineering Walkthroughs: www.youtube.com/@jeFF0Falltrades
 - Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
 - All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
+- Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
+- Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
 - Exploring Tokimeki Memorial: https://tetracorp.github.io/tokimeki-memorial/
