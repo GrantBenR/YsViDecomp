@@ -15,3 +15,5 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 ## Hopes and Dreams
 - Implement the japanese dub from the PS2 release (The English dub uses Konami's translation and thus would not fit)
 - Complete decompilation
+## Resources and Credits
+- Full sprite rip by <b>Magma MK-II</b>: https://www.spriters-resource.com/pc_computer/ysvithearkofnapishtim/
