@@ -16,4 +16,8 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Implement the japanese dub from the PS2 release (The English dub uses Konami's translation and thus would not fit)
 - Complete decompilation
 ## Resources and Credits
-- Full sprite rip by <b>Magma MK-II</b>: https://www.spriters-resource.com/pc_computer/ysvithearkofnapishtim/
+- Ys VI full sprite rip by <b>Magma MK-II</b>: https://www.spriters-resource.com/pc_computer/ysvithearkofnapishtim/
+- Reverse Engineering Walkthroughs: www.youtube.com/@jeFF0Falltrades
+- Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
+- All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
+- Exploring Tokimeki Memorial: https://tetracorp.github.io/tokimeki-memorial/
