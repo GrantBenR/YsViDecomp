@@ -15,9 +15,13 @@ Includes an uncompressed png image of Isha in the file.
   ### music/
   Contains all music .ogg files and a BGMdef file
   ### im01.dt
+  Demo: Appearance of the romun fleet
   ### im02.dt
+  Demo: The Ark rises from the ocean, and destroys the romun fleet
   ### im03a.dt
+  Demo: The Ark is destroyed pt.1
   ### im03b.dt
+  Demo: The ark is destoryed pt.2
   ### im04.dt
   Unscaled font file for the game, contains FELGHANA font file
   ### im04.fot
