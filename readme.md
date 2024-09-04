@@ -23,3 +23,20 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
 - Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
 - Exploring Tokimeki Memorial: https://tetracorp.github.io/tokimeki-memorial/
+
+
+
+
+
+
+
+
+
+## Components of the project
+
+### Ys6_win.exe
+The main executable of the game. Consists of the main game code, lots of external libraries, and DLLs related to Microsoft applications, GOG, and Steam. 
+### config.exe
+The supporting executable for the game that defines a lot of the game's system properties such as control bindings, display settings, effect settings, etc.
+It may seem small but it is quite hefty with comparable numbers of functions and data to the main executable.
+Includes an uncompressed png image of Isha in the file.
