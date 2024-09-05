@@ -25,8 +25,8 @@
    Ys6_23: Black Ark Unveiled
    Ys6_24: The Depth of Napishtim (Ark Fight)
    Ys6_25: Credits
-   Ys6_26: Destruction of the Ark (Demo ___)
-   Ys6_27: Release of the Black Ark (Demo ___)
-   Ys6_28: Release of the Black Ark pt.2 (Demo ___)
-   Ys6_29: Destruction of the Ark (Demo ___)
+   Ys6_26: Arrival of the Romun Fleet (Demo 2)
+   Ys6_27: Release of the Black Ark (Demo 3)
+   Ys6_28: Destruction of the Ark (Demo 4)
+   Ys6_29: Destruction of the Ark pt.2 (Demo 5)
    Ys6_30: Defeat
