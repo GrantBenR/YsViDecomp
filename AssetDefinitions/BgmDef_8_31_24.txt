@@ -1,5 +1,5 @@
    Ys6_01: Main menu
-   Ys6_02: Release of the Far West Ocean
+   Ys6_02: Release of the Far West Ocean (Demo 1)
    _Ys6_02: Release of the Far West Ocean (Alternate)
    _Ys6_02_Old: Release of the Far West Ocean (Old)
    Ys6_03: The Moonset Shore
