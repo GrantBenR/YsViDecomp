@@ -1,5 +1,5 @@
    Ys6_01: Main menu
-   Ys6_02: Release of the Far West Ocean
+   Ys6_02: Release of the Far West Ocean (Demo 1)
    _Ys6_02: Release of the Far West Ocean (Alternate)
    _Ys6_02_Old: Release of the Far West Ocean (Old)
    Ys6_03: The Moonset Shore
@@ -25,8 +25,8 @@
    Ys6_23: Black Ark Unveiled
    Ys6_24: The Depth of Napishtim (Ark Fight)
    Ys6_25: Credits
-   Ys6_26: Destruction of the Ark (Demo ___)
-   Ys6_27: Release of the Black Ark (Demo ___)
-   Ys6_28: Release of the Black Ark pt.2 (Demo ___)
-   Ys6_29: Destruction of the Ark (Demo ___)
+   Ys6_26: Arrival of the Romun Fleet (Demo 2)
+   Ys6_27: Release of the Black Ark (Demo 3)
+   Ys6_28: Destruction of the Ark (Demo 4)
+   Ys6_29: Destruction of the Ark pt.2 (Demo 5)
    Ys6_30: Defeat
