@@ -1,5 +1,5 @@
 # Ys Vi: The Ark of Napishtim Decompilation
-- Release: Steam NA 1.2.0.1 (Not DX9)
+- Release: Steam North America 1.2.0.1 (Not DX9)
 - Publisher: XSEED Games (2015, Windows 10)
 - Original: Nihon Falcom Corp. (2003, Windows 7/8/Vista/Xp)
 
@@ -11,6 +11,10 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Replace the default HD english font (MS Gothic) with something more fitting
 - Enable modifications to character portraits and music tracks
 - Enable modifications to game balance
+
+## Progress - 9-16-24
+- Function identification: <b>~50%</b> of the functions have been classified!
+- I am still working my way around the edges of the puzzle so to speak. Much of the main gameplay functions have been found, but most of the complex structures like file structuring and decompression need to be researched further.
 
 ## Hopes and Dreams
 - Implement the japanese dub from the PS2 release (The English dub uses Konami's translation and thus would not fit)
