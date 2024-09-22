@@ -12,9 +12,13 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Enable modifications to character portraits and music tracks
 - Enable modifications to game balance
 
-## Progress - 9-16-24
-- Function identification: <b>~50%</b> of the functions have been classified!
-- I am still working my way around the edges of the puzzle so to speak. Much of the main gameplay functions have been found, but most of the complex structures like file structuring and decompression need to be researched further.
+## Progress - 9-22-24
+- Function identification: more than <b>50%</b> of the functions have been classified. Many main game functions have been fully identified!
+- Sfx identification: less than 40% identified
+- Vfx identification: less than 30% identified
+- Bgm identification: <b>full identification!</b>
+- Gamemap Models identification: <b>full identification!</b>
+- I am still working my way around the edges of the puzzle so to speak. Much of the main gameplay functions have been found, but most of the complex structures like the game's rendering and decompression solutions need to be researched further.
 
 ## Hopes and Dreams
 - Implement the japanese dub from the PS2 release (The English dub uses Konami's translation and thus would not fit)
