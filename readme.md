@@ -9,7 +9,7 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 ## The Goals
 - Obtain a solid understanding of the game's fundamental systems
 - Replace the default HD english font (MS Gothic) with something more fitting
-- Enable modifications to character portraits and music tracks
+- Enable modifications to character portraits and sfx
 - Enable modifications to game balance
 
 ## Progress - 9-22-24
