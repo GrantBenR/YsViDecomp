@@ -24,10 +24,13 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Implement the japanese dub from the PS2 release (The English dub uses Konami's translation and thus would not fit)
 - Complete decompilation
 ## Resources and Credits
-- Ys VI full sprite rip by <b>Magma MK-II</b>: https://www.spriters-resource.com/pc_computer/ysvithearkofnapishtim/
-- Reverse Engineering Walkthroughs: www.youtube.com/@jeFF0Falltrades
-- Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
-- All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
-- Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
-- Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
-- Exploring Tokimeki Memorial: https://tetracorp.github.io/tokimeki-memorial/
+### - Ys VI full sprite rip by <b>Magma MK-II</b>: https://www.spriters-resource.com/pc_computer/ysvithearkofnapishtim/
+  Magma's work sprite ripping this game was incredibly useful at many points in the reverse engineering process and I am very thankful for it.
+### - Reverse Engineering Walkthroughs: www.youtube.com/@jeFF0Falltrades
+  His videos were pivotal to my early learning in Ghidra and I am highly appreciative for his in-depth tutorials.
+### - Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
+  Hilltop has worked on a ton of excellent game modding projects over the years and has made many highly informative videos on the topic. His work has been inspiring to me and I am profoundly thankful for the work he's doing.
+### - All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
+### - Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
+### - Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
+### - Exploring Tokimeki Memorial: https://tetracorp.github.io/tokimeki-memorial/
