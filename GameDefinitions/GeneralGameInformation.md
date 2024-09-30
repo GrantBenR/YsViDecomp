@@ -16,8 +16,10 @@ Ys Vi uses various libraries for this purpose:
 
 - **XviD library** for handling game demo video files.
 
-# Game File Extensions
+# Executable Info
+Ys Vi appears to be have been compiled with Visual Studio, but I have yet to fully confirm this. The executable contains many library functions from Visual Studio 2005 and 2008 and appears to have the Microsoft Rich Text header.
 
+# Game File Extensions
 Game Asset Files:
 - .SOB - Save pillar object
 - .SBX - Sky box object
