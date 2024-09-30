@@ -24,6 +24,10 @@ Game Asset Files:
 - .SOB - Save pillar object
 - .SBX - Sky box object
 - .YMO - 3D game object
+- .YCO - ???
+- .XSO - ???
+- .ASO - ???
+- .AIA - Undef Sprite Object File
 - .SCT - ???
 - .SCM - ???
 - .SFO - Game Map Component
