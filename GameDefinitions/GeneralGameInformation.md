@@ -25,14 +25,14 @@ Game Asset Files:
 - .SBX - Sky box object
 - .YMO - 3D game object
 - .YCO - ???
-- .XSO - ???
+- .XSO - Used to store project details in Expresso by Ultrapico for Windows apps
 - .ASO - ???
 - .AIA - Undef Sprite Object File
 - .SCT - ???
 - .SCM - ???
 - .SFO - Region Fog File
 - .SEF - ???
-- .SEN - ???
+- .SEN - Region Entry File
 - .SBE - ???
 - .SL - Scene List File
 - .SL2 - Effect Scene List File
