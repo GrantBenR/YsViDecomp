@@ -2,10 +2,10 @@
 Ys Vi uses compressed **.wav** audio files for its in-game sound effects and uncompressed **.ogg** files via WuVorbis for its music and demo audio-tracks. 
 
 # Graphics
-Ys Vi uses **Direct3D and DirectX 8** for its rendering
+The version of Ys Vi I am working on uses **Direct3D and DirectX 8** for its rendering
 
 # Input
-Ys Vi uses **DirectInput8** to manage user input
+Ys Vi **DirectInput8** to manage user input
 
 # Compression and Decompression
 Ys Vi uses various libraries for this purpose:
@@ -30,7 +30,7 @@ Game Asset Files:
 - .AIA - Undef Sprite Object File
 - .SCT - ???
 - .SCM - ???
-- .SFO - Game Map Component
+- .SFO - Region Fog File
 - .SEF - ???
 - .SEN - ???
 - .SBE - ???
