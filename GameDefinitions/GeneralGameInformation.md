@@ -39,7 +39,7 @@ Game Asset Files:
 
 Game Release Files:
 - .FOT - Scalable Font Resource
-- .NA - Release data file
+- .NA - Contains SFX Audio Files (.wav)
 - .NI - Release data file
 - .NU - Release data file
 - .DT - Multi-purpose data file (Font file, etc.)
