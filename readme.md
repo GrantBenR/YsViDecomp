@@ -1,5 +1,5 @@
 # Ys VI: The Ark of Napishtim Decompilation
-- Release: Steam North America 1.2.0.1 (Not DX9)
+- Release: Steam North America 1.2.0.1 (DirectX8 version)
 - Publisher: XSEED Games (2015, Windows 10)
 - Original: Nihon Falcom Corp. (2003, Windows 7/8/Vista/Xp)
 
