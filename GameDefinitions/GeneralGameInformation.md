@@ -2,7 +2,7 @@
 Ys Vi uses compressed **.wav** audio files for its in-game sound effects and uncompressed **.ogg** files via WuVorbis for its music and demo audio-tracks. 
 
 # Graphics
-The version of Ys Vi I am working on uses **Direct3D and DirectX 8** for its rendering
+I am working on the **DirectX 8** release of Ys Vi (Don't ask me why)
 
 # Input
 Ys Vi **DirectInput8** to manage user input
