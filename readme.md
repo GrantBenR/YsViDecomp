@@ -40,3 +40,7 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Function identification: now **more than 75%!**
 - Almost all enemy actor's functions have been identified
 - As before, I still have a ton to learn. The majority of unclassified functions still remaining I believe are related to Direct3D, decompression, or just junk compiler code. Overall, I am very blessed to have the free time to continue with this project, and I pray that God can continue to provide me the same motivation and opportunities.
+## Progress Report - 10-3-24
+- Function Identification: Only 900 functions left unclassified!
+- All bespoke game classes have been identified. All the particulars of what GoXx does has yet to be understood.
+- Decompression libraries have been identified, and I am working on using this info to dump the game's non-png assets
