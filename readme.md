@@ -22,6 +22,10 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
   His videos were pivotal to my early learning in Ghidra and I am highly appreciative for his in-depth tutorials.
 ### - Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
   Hilltop has worked on a ton of excellent game modding projects over the years and has made many highly informative videos on the topic. His work has been inspiring to me and I am profoundly thankful for the work he's doing.
+### - Psound201
+  Software for converting .VAG files to .WAV.
+### -  MediaExtract by @Panzi - https://github.com/panzi/mediaextract
+  Used to rip sfx from .NA release file
 ### - All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
 ### - Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
 ### - Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
@@ -44,3 +48,7 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Function Identification: Only 900 functions left unclassified!
 - All bespoke game classes have been identified. All the particulars of what GoXx does have yet to be understood.
 - Decompression libraries have been identified, and I am working on using this info to dump the game's non-png assets
+## Progress Report - 10-13-24
+- No significant change on function identification. The remaining are rather hard to define and mostly relate to the particulars of decompression and visual effects.
+- I was able to rip the game's sfx and was also able to rip the Japanase voice acting files from the Konami PS2 release of the game as .wav files (all 4200 of em yikes!).
+- More research needed into how the game dialog is triggered in order to potentially implement voice acting
