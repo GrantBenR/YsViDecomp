@@ -50,5 +50,5 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - Decompression libraries have been identified, and I am working on using this info to dump the game's non-png assets
 ## Progress Report - 10-13-24
 - No significant change on function identification. The remaining are rather hard to define and mostly relate to the particulars of decompression and visual effects.
-- I was able to rip the game's sfx and was also able to rip the Japanase voice acting files from the Konami PS2 release of the game as .wav files (all 4200 of em yikes!).
+- I was able to rip the game's sfx and was also able to rip the Japanese voice acting files from the Konami PS2 release of the game as .wav files (all 4200 of em yikes!).
 - More research needed into how the game dialog is triggered in order to potentially implement voice acting
