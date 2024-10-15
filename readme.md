@@ -26,6 +26,7 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
   Software for converting .VAG files to .WAV.
 ### -  MediaExtract by @Panzi - https://github.com/panzi/mediaextract
   Used to rip sfx from .NA release file
+### - Pycave by Alexandre Cheron - https://github.com/axcheron/pycave
 ### - All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
 ### - Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
 ### - Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
