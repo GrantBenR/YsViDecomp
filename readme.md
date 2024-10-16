@@ -53,3 +53,6 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 - No significant change on function identification. The remaining are rather hard to define and mostly relate to the particulars of decompression and visual effects.
 - I was able to rip the game's sfx and was also able to rip the Japanese voice acting files from the Konami PS2 release of the game as .wav files (all 4200 of em yikes!).
 - More research needed into how the game dialog is triggered in order to potentially implement voice acting
+## Progress Report - 10-15-24
+- There is a 400 byte "code cave" starting at 52C924 that I believe would be ideal for inserting a potential new dialog function for voice acting.
+- I have managed to identify the majority of sfx files for the game, though some unlabeled enemy attack sfx I still don't get.
