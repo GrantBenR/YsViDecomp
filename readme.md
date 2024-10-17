@@ -27,6 +27,9 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
 ### -  MediaExtract by @Panzi - https://github.com/panzi/mediaextract
   Used to rip sfx from .NA release file
 ### - Pycave by Alexandre Cheron - https://github.com/axcheron/pycave
+Used to find code caves in the executable
+### - Binocle by Sharkdp - https://github.com/sharkdp/binocle/releases/tag/v0.3.2
+Used to analyze visually release files
 ### - All-in-one Reverse Engineering Software Directory: https://github.com/dsasmblr/game-hacking?tab=readme-ov-file
 ### - Ys Vi Cheat Tables: https://fearlessrevolution.com/viewtopic.php?t=3058#google_vignette
 ### - Ys Vi Cheat Protection: https://gamefaqs.gamespot.com/boards/918567-ys-vi-the-ark-of-napishtim/47534937
