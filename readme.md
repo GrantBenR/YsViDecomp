@@ -59,3 +59,7 @@ Used to analyze visually release files
 ## Progress Report - 10-15-24
 - There is a 400 byte "code cave" starting at 52C924 that I believe would be ideal for inserting a potential new dialog function for voice acting.
 - I have managed to identify the majority of sfx files for the game, though some unlabeled enemy attack sfx I still don't get.
+## Progress Report - 11-10-24
+- Just under 700 functions remaining. So, so, so . . . so, so so many direct3d and decompression functions that I cannot make any sense of at the moment.
+- I need to research more about patching executables in ghidra in regards to patching data rather than instructions.
+- Still learning how I want to pace my work on this project
