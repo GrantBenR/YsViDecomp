@@ -49,7 +49,7 @@ Used to analyze visually release files
 - Almost all enemy actor's functions have been identified
 - As before, I still have a ton to learn. The majority of unclassified functions still remaining I believe are related to Direct3D, decompression, or just junk compiler code. Overall, I am very blessed to have the free time to continue with this project, and I pray that God can continue to provide me the same motivation and opportunities.
 ## Progress Report - 10-3-24
-- Function Identification: Only 900 functions left unclassified!
+- Function Identification: Only **900** functions left unclassified!
 - All bespoke game classes have been identified. All the particulars of what GoXx does have yet to be understood.
 - Decompression libraries have been identified, and I am working on using this info to dump the game's non-png assets
 ## Progress Report - 10-13-24
@@ -63,3 +63,5 @@ Used to analyze visually release files
 - Just under 700 functions remaining. So, so, so . . . so, so so many direct3d and decompression functions that I cannot make any sense of at the moment.
 - I need to research more about patching executables in ghidra in regards to patching data rather than instructions.
 - Still learning how I want to pace my work on this project
+## Progress Report - 11-11-24
+- So I locked in, and now only **200** functions remain to be classified! Turns out, there were at least 500 decompression related functions in this game, and though I do not fully understand the process yet I was able to classify them by decompression type for the most part.
