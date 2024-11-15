@@ -65,9 +65,12 @@ Used to analyze visually release files
 - Still learning how I want to pace my work on this project
 ## Progress Report - 11-11-24
 - So I locked in, and now only **200** functions remain to be classified! Turns out, there were at least 500 decompression related functions in this game, and though I do not fully understand the process yet I was able to classify them by decompression type for the most part.
-## Progress Report - 11-11-24
+## Progress Report - 11-14-24
 - WE'VE REACHED DOUBLE DIGITS BABY WOOOOOO!!!! Just 98 functions remaining. They appear to primarily be complex sub functions for vfx and particle fx, and I'm working through identifying them pretty steadily
 - That being said, here are the next steps:
 - Figure out how game scenes and dialog are triggered in order to implement voice acting, likely involving extracting the scenelist.sl file.
 - Patch a new function to load dialog audio files that will as of now use uncompressed audio files similar to how the BGM is played.
 - Further out, given enough free time, I will more thoroughly label the data and begin proper decompilation of the game.
+## Progress Report - 11-15-24
+- **COMPLETE FUNCTION CLASSIFICATION**. Praise God for giving me the free time and motivation to make it this far.
+- Many of the classifications are innaccurate and much more work is due in order to clarify the purpose of many gameplay functions
