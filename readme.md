@@ -74,3 +74,8 @@ Used to analyze visually release files
 ## Progress Report - 11-15-24
 - **COMPLETE FUNCTION CLASSIFICATION**. Praise God for giving me the free time and motivation to make it this far.
 - Many of the classifications are innaccurate and much more work is due in order to clarify the purpose of many gameplay functions
+## Progress Report - 11-15-24
+- I have made some progress on the voice acting func, however it is far from finished and I need more practice writing in assembly.
+- I converted the files into OGG so that I could reuse the bgm audio functions, rather than using the wav player used for other soundeffects, and also removed the header of "V_" to "V50_" from all relevent files.
+- Due to Xseed's new localization, I may need to either replace some file names with their relocalized names or just replace them entirely with the character # used in dialog
+  
