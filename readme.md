@@ -22,7 +22,7 @@ Decompile Ys Vi's modern english release using Ghidra for the purpose of quality
   His videos were pivotal to my early learning in Ghidra and I am highly appreciative for his in-depth tutorials.
 ### - Video Game Hacking and Reverse Engineering Content: https://www.youtube.com/@hilltopworks
   Hilltop has worked on a ton of excellent game modding projects over the years and has made many highly informative videos on the topic. His work has been inspiring to me and I am profoundly thankful for the work he's doing.
-### - Psound201
+### - Psound201 - https://www.romhacking.net/utilities/679/
   Software for converting .VAG files to .WAV.
 ### -  MediaExtract by @Panzi - https://github.com/panzi/mediaextract
   Used to rip sfx from .NA release file
