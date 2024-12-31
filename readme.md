@@ -78,4 +78,11 @@ Used to analyze visually release files
 - I have made some progress on the voice acting func, however it is far from finished and I need more practice writing in assembly.
 - I converted the files into OGG so that I could reuse the bgm audio functions, rather than using the wav player used for other soundeffects, and also removed the header of "V_" to "V50_" from all relevent files.
 - Due to Xseed's new localization, I may need to either replace some file names with their relocalized names or just replace them entirely with the character # used in dialog
-  
+## Progress Report - 12-31-24
+- So life threw a bit of a wrench in my work on this. Work and school were a lot on their own, and then I was in the hospital for 3 weeks, so resultingly progress has been slow.
+- There is a big issue with implementing voice acting into the existing dialogue functions, since though each character and conversation have unique IDs, each line of dialogue does not have a unique ID, so I would either need to:
+  - Update the existing dialogue functions and data to have unique line IDs to match with the individual audio files
+  - Combine individual line audio files into full conversation files with some sort of break system that the new dialogue audio player can detect (I have no idea how to     accomplish this)
+  - Do something similar to the last option, except using multiple individual line audio files and some sort of internal counter for line number in the conversation
+- Moreover, there are still other issues such as inconsistent internal names (Xaxon is just called "String" internally for no reason whatsoever)
+- I have made some good progress on identifying animation functions, however.
