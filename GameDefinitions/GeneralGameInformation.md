@@ -49,3 +49,5 @@ Game Save Files:
 - .TA - Save Record File
 - .TA2 - Save Record File
 
+# Compiler
+- Game Executable was likely originally compiled with some version of MinGW GCC 9.x, due to linker header and executable structure
